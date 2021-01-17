@@ -21,11 +21,11 @@ intellij {
     type 'AI'
 }
 
-publishPlugin {
-    token pluginsDevToken
-}
+//publishPlugin {
+//    token pluginsDevToken
+//}
 
 patchPluginXml {
-    version "1.7.0"
+    version "1.7.1"
     sinceBuild '201.3803.71'
 }
